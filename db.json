@@ -1,18 +1,53 @@
 {
     "students": [
+        {
+          "id":3,
+          "name": "Robert Pattinson",
+          "profile_img: "",
+          "thumbnail": "",
+          "subjects":{
+            "english": 35,
+          "math": 40,
+          "science": 45,
+          "social": 50
+          }
+      },
       {
         "id":1,
         "name": "Ben Affleck",
+        "profile_img: "",
+        "thumbnail": "",
+        "subjects":{
         "english": 45,
         "math": 80,
         "science": 90,
         "social": 50
+        }
       },
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
+      {
+        "id":2,
+        "name": "Christian Bale",
+        "profile_img: "",
+        "thumbnail": "",
+        "subjects":{
+        "english": 25,
+        "math": 50,
+        "science": 85,
+        "social": 35
+        }
+      },
+      {
+          "id":3,
+          "name": "David Mazouz",
+          "profile_img: "",
+          "thumbnail": "",
+          "subjects":{
+           "english": 35,
+          "math": 30,
+          "science": 25,
+          "social": 55
+        },
+          
+      }
     ]
 }
